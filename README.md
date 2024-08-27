@@ -1,4 +1,4 @@
-Project Overview: Pizza 4P's - Social Listening Dashboard
+Project Overview:
 
 This project focuses on a data architecture specifically designed to manage and analyze social media interactions and customer sentiment for Pizza 4P's. The dashboard is built upon three primary datasets: mentions and sentiment data, demographic data, and interaction data. Each dataset plays a vital role in capturing different aspects of online discussions, from user demographics to the level of engagement with the brand. Below is a detailed description of each dataset and its key fields:
 
