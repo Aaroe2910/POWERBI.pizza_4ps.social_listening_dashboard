@@ -44,11 +44,7 @@ The Social Listening Dashboard for Pizza 4P's is designed to be user-friendly an
 
 Relevance to Pizza 4P's Management:
 
-This Social Listening Dashboard is a strategic tool for Pizza 4P's management, providing real-time insights into customer sentiment and brand performance across various online channels. It supports informed decision-making in several areas:
 
-	- Brand Reputation Management: By monitoring sentiment and identifying potential issues early, the brand can take proactive measures to protect and enhance its reputation.
-	Customer Engagement: Understanding which channels and content types generate the most interaction helps in refining communication strategies to better connect with the audience.
-	- Market Insights: The dashboard offers a deep dive into customer preferences and perceptions, guiding product development and marketing campaigns.
 
 Conclusion:
 
